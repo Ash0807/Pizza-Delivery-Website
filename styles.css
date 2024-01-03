@@ -635,7 +635,19 @@ li {
     margin: 15px 5px 0px 5px;
 }
 
-
+/* Hover styles */
+.btn-add:hover,
+.btn-info:hover,
+.btn-info-burger:hover,
+.btn-info-snack:hover,
+.btn-info-drink:hover {
+background-color: #00ff15; /* Change the background color on hover */
+color: rgb(0, 0, 0); /* Change the text color on hover if needed */
+transform: translateY(
+    -2px
+); /* Lift the button by translating it on the Y-axis */
+box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); /* Add a box shadow for a lifted appearance */
+}
 
 /* Styles for the menu in the "pizza" section, I create classes via JavaScript innerHTML */
 .block-pizza,
