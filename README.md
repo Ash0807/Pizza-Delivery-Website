@@ -43,13 +43,28 @@ https://github.com/Ash0807/Pizza-Delivery-Website/assets/93093775/8afbdc6c-d4da-
 
 ---
 
-## <p align="center">📌 Other 📌</p>
+## <p align="center"> How to contribute! 😎</p>
+#### <p align="center">I encourages contributions! Feel free to discuss any bug fixes/features in the issues section. And if you wish to work on this project: </p>
 
-<br>
-<p align="center">I encourages contributions! Feel free to discuss any bug fixes/features in the issues section. And if you wish to work on this project:</p>
+- If you are a beginner, then you can contribute by improving the structure of the repository. 
+- Design the website for this repository with the content. 
+- Mandatory Step: You have to star ⭐ this repository.
 
-1. Fork [this project](https://github.com/ilyasbelfar/Pizza-Fleet)
-2. Create a branch (`git checkout -b new-branch`)
-3. Commit your changes (`git commit -am 'add new feature'`)
-4. Push to the branch (`git push origin new-branch`)
-5. [Submit a pull request!](https://github.com/ilyasbelfar/Pizza-Fleet/pull/new/master)
+---
+
+## <p align="center"> Instructions 📝</p>
+
+- Fork this Repository using the button at the top on the right corner [this project!](https://github.com/Ash0807/Pizza-Delivery-Website/)
+- Clone your forked repository to your PC ( git clone "url from clone option.)
+- Create a branch (`git checkout -b new-branch`)
+- Commit your changes (`git commit -am 'add new feature'`)
+- Push to the branch (`git push origin new-branch`)
+- Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
+- Wait for your PR review and merge approval!
+
+---
+
+## <p align="center"> Contribution Rules 📌 </p>
+- Do not remove other content.
+- Try to keep pull requests small to minimize merge conflicts.
+- Note: Before contributing, please create an issue first so that I can assign you and you can start working on it.
