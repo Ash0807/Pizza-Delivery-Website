@@ -1,4 +1,4 @@
-# <p align="center">🍕 Pizza Delivery / OIBSIP 🍕</p>
+# <p align="center">🍕 Pizza Delivery Website 🍕</p>
 
 
 https://github.com/Ash0807/Pizza-Delivery-Website/assets/93093775/8afbdc6c-d4da-4a7f-bb1d-444a9648a47b
