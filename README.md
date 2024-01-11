@@ -44,7 +44,7 @@ https://github.com/Ash0807/Pizza-Delivery-Website/assets/93093775/8afbdc6c-d4da-
 ---
 
 ## <p align="center"> How to contribute! 😎</p>
-#### <p align="center">I encourages contributions! Feel free to discuss any bug fixes/features in the issues section. And if you wish to work on this project: </p>
+#### <p align="center">I encourages contributions! Feel free to discuss any bug fixes/features in the issues section. If you wish to work on this project: </p>
 
 - If you are a beginner, then you can contribute by improving the structure of the repository. 
 - Design the website for this repository with the content. 
